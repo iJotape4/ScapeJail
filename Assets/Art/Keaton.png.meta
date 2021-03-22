@@ -1,0 +1,1283 @@
+fileFormatVersion: 2
+guid: 7af1ae7fe7679fb41ac2fdd5688c6e34
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6087682428153018832
+    second: Keaton_0
+  - first:
+      213: 731519420487459164
+    second: Keaton_1
+  - first:
+      213: -6294560462899652410
+    second: Keaton_2
+  - first:
+      213: -3991710808816960585
+    second: Keaton_3
+  - first:
+      213: 3738539258224314064
+    second: Keaton_4
+  - first:
+      213: -6059687582104236453
+    second: Keaton_5
+  - first:
+      213: -9073239358393234771
+    second: Keaton_6
+  - first:
+      213: -4820290388420739104
+    second: Keaton_7
+  - first:
+      213: -7842630998427341831
+    second: Keaton_8
+  - first:
+      213: 2530924636801567683
+    second: Keaton_9
+  - first:
+      213: 8152656377264177150
+    second: Keaton_10
+  - first:
+      213: 7239844330567281203
+    second: Keaton_11
+  - first:
+      213: 6207065073579049128
+    second: Keaton_12
+  - first:
+      213: 3582566602006047035
+    second: Keaton_13
+  - first:
+      213: 4026465155000135678
+    second: Keaton_14
+  - first:
+      213: 8780860451535906391
+    second: Keaton_15
+  - first:
+      213: -8938397416843418913
+    second: Keaton_16
+  - first:
+      213: -7234453972517512241
+    second: Keaton_17
+  - first:
+      213: 5471788031612057818
+    second: Keaton_18
+  - first:
+      213: -7723252820045491980
+    second: Keaton_19
+  - first:
+      213: 4951839631505932219
+    second: Keaton_20
+  - first:
+      213: -2369772205273381573
+    second: Keaton_21
+  - first:
+      213: -4990093135569250983
+    second: Keaton_22
+  - first:
+      213: -6071767417976623995
+    second: Keaton_23
+  - first:
+      213: 2790846378060975804
+    second: Keaton_24
+  - first:
+      213: -1556709878108708238
+    second: Keaton_25
+  - first:
+      213: 3779020224850891649
+    second: Keaton_26
+  - first:
+      213: -4976376492608924340
+    second: Keaton_27
+  - first:
+      213: 7118786193765395348
+    second: Keaton_28
+  - first:
+      213: 4838909888170283676
+    second: Keaton_29
+  - first:
+      213: 5994733109934912405
+    second: Keaton_30
+  - first:
+      213: 7301995560930687939
+    second: Keaton_31
+  - first:
+      213: 4273691766807762852
+    second: Keaton_32
+  - first:
+      213: -4177947739159718802
+    second: Keaton_33
+  - first:
+      213: 7769165602885226907
+    second: Keaton_34
+  - first:
+      213: 8766152349215499558
+    second: Keaton_35
+  - first:
+      213: 8878212105481442961
+    second: Keaton_36
+  - first:
+      213: -5731947140212639808
+    second: Keaton_37
+  - first:
+      213: -6515066547865714170
+    second: Keaton_38
+  - first:
+      213: 624060478248191848
+    second: Keaton_39
+  - first:
+      213: 9023024652783664878
+    second: Keaton_40
+  - first:
+      213: -8135324021362572354
+    second: Keaton_41
+  - first:
+      213: -5956443367617521414
+    second: Keaton_42
+  - first:
+      213: 2316922148278134719
+    second: Keaton_43
+  - first:
+      213: -1788976218996863255
+    second: Keaton_44
+  - first:
+      213: -5438097887950402504
+    second: Keaton_45
+  - first:
+      213: -5631932365154774001
+    second: Keaton_46
+  - first:
+      213: 7655046738090951302
+    second: Keaton_47
+  - first:
+      213: 4198201074445284590
+    second: Keaton_48
+  - first:
+      213: -3778893863273018746
+    second: Keaton_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Keaton_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 360
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0364d84e515348ba0800000000000000
+      internalID: -6087682428153018832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 360
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5164748901e62a00800000000000000
+      internalID: 731519420487459164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 360
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8d5a7eb9a35a8a0800000000000000
+      internalID: -6294560462899652410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 360
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbb06a1b289a98c0800000000000000
+      internalID: -3991710808816960585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 333
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d60051d5a5f1e330800000000000000
+      internalID: 3738539258224314064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_5
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 333
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ec4daef3aa7eba0800000000000000
+      internalID: -6059687582104236453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 333
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daac0e820e0651280800000000000000
+      internalID: -9073239358393234771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_7
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 333
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efb3f34e63ea1db0800000000000000
+      internalID: -4820290388420739104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_8
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 333
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb6542b8a0692390800000000000000
+      internalID: -7842630998427341831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 333
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb87d93c86af1320800000000000000
+      internalID: 2530924636801567683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 333
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff77aec7cd042170800000000000000
+      internalID: 8152656377264177150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 333
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33aa6907f08197460800000000000000
+      internalID: 7239844330567281203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_12
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 333
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0c9684ccce32650800000000000000
+      internalID: 6207065073579049128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 306
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39afb0e755d7b130800000000000000
+      internalID: 3582566602006047035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_14
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 306
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff6540b9b0e0e730800000000000000
+      internalID: 4026465155000135678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_15
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 306
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756e214ce02ebd970800000000000000
+      internalID: 8780860451535906391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 270
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd267c338ee64f380800000000000000
+      internalID: -8938397416843418913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_17
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 270
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb1e28117e0a9b90800000000000000
+      internalID: -7234453972517512241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_18
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 270
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad878765932bfeb40800000000000000
+      internalID: 5471788031612057818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_19
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 270
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f097aeca7e71d490800000000000000
+      internalID: -7723252820045491980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 241
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfbc9ca8e778b440800000000000000
+      internalID: 4951839631505932219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_21
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 241
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3506122cb0ec1fd0800000000000000
+      internalID: -2369772205273381573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_22
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 241
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955974a5bb0afbab0800000000000000
+      internalID: -4990093135569250983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_23
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 241
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c66b4f3bfbcbba0800000000000000
+      internalID: -6071767417976623995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_24
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 241
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe820b8ef31bb620800000000000000
+      internalID: 2790846378060975804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_25
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 241
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2722df81d94756ae0800000000000000
+      internalID: -1556709878108708238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_26
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 241
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18311455fd6c17430800000000000000
+      internalID: 3779020224850891649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_27
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 241
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45d07922fb50fab0800000000000000
+      internalID: -4976376492608924340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_28
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 241
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b675783520bc260800000000000000
+      internalID: 7118786193765395348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 208
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92d388d7e2472340800000000000000
+      internalID: 4838909888170283676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_30
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 208
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59371f48002913350800000000000000
+      internalID: 5994733109934912405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_31
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 208
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbb0c86646e55560800000000000000
+      internalID: 7301995560930687939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 170
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a79618d4043f4b30800000000000000
+      internalID: 4273691766807762852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_33
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 170
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e641d3dbaa2f406c0800000000000000
+      internalID: -4177947739159718802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_34
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 170
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b915829f3fe91db60800000000000000
+      internalID: 7769165602885226907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_35
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 170
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62522f5dd11a7a970800000000000000
+      internalID: 8766152349215499558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 140
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1965bc30fdeb53b70800000000000000
+      internalID: 8878212105481442961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_37
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 140
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c73f44f1780470b0800000000000000
+      internalID: -5731947140212639808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_38
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 140
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6020f663e75d595a0800000000000000
+      internalID: -6515066547865714170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_39
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 140
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8670854d2bb19a800800000000000000
+      internalID: 624060478248191848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 140
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee33cc9d19383d70800000000000000
+      internalID: 9023024652783664878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_41
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 140
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb34bf5c7e5891f80800000000000000
+      internalID: -8135324021362572354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 140
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af81d64d056765da0800000000000000
+      internalID: -5956443367617521414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_43
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 140
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb76a541b6c572020800000000000000
+      internalID: 2316922148278134719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_44
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 140
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee02137b974c27e0800000000000000
+      internalID: -1788976218996863255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 107
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c0aee78cef784b0800000000000000
+      internalID: -5438097887950402504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_46
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 107
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f049ce76a5b57d1b0800000000000000
+      internalID: -5631932365154774001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_47
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 107
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6828cea33703c3a60800000000000000
+      internalID: 7655046738090951302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keaton_49
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 111
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a45b38d0cae8bc0800000000000000
+      internalID: -3778893863273018746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0447012730be8ab4d929c8de547c8c85
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
