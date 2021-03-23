@@ -47,6 +47,7 @@ public class GameManager : MonoBehaviour
     {
         UIManager.Instance.UpdateLives(livesCount);
         EnergyCount = 2;
+        livesCount = 2;
     }
 
     // Update is called once per frame
@@ -86,7 +87,7 @@ public class GameManager : MonoBehaviour
 
     public void RestartGame()
     {
-        Destroy(GameManager.Instance);
+        Start();
         _isGameOver = false;
         Time.timeScale = 1;
         UIManager.Instance.Start();

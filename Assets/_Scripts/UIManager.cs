@@ -14,6 +14,7 @@ public class UIManager : MonoBehaviour
     [SerializeField] TMPro.TMP_Text livesText;
     [SerializeField] Image Cora1;
     [SerializeField] Image Cora2;
+    [SerializeField] GameObject pausePanel;
     #endregion
 
     private void Awake()
@@ -30,6 +31,8 @@ public class UIManager : MonoBehaviour
 
         }
         DontDestroyOnLoad(this);
+
+        pausePanel = GameObject.Find("PausePanel"); pausePanel.SetActive(false);
     }
 
     // Start is called before the first frame update
@@ -37,6 +40,7 @@ public class UIManager : MonoBehaviour
     {
         gameOverText.gameObject.SetActive(false);
        playAgainButton.gameObject.SetActive(false);
+
     }
 
 
@@ -49,7 +53,8 @@ public class UIManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if (Input.GetButtonDown("Pause"))
+            Pause();    
     }
      
     public void UpdateLives(int lives)
@@ -60,14 +65,14 @@ public class UIManager : MonoBehaviour
             livesText.text = "";
             return;
         }
-        livesText.text ="x "+lives;
+        livesText.text ="x"+lives;
         Cora1.enabled = true;
         Cora2.enabled = true;    
     }
 
     public void UpdateEnergy()
     {
-        if (Cora1.IsActive()) { 
+        if (Cora1.IsActive()) {
             Cora1.enabled = false;
         }
         else if (!Cora2.IsActive())
@@ -81,5 +86,15 @@ public class UIManager : MonoBehaviour
         }
               
        
+    }
+
+    public void Pause()
+    {
+        if (pausePanel.activeSelf)
+            pausePanel.SetActive(false);        
+        else
+            pausePanel.SetActive(true);
+
+        Time.timeScale = (pausePanel.activeSelf) ? 0 : 1;
     }
 }
