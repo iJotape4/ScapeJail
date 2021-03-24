@@ -15,6 +15,7 @@ public class UIManager : MonoBehaviour
     [SerializeField] Image Cora1;
     [SerializeField] Image Cora2;
     [SerializeField] GameObject pausePanel;
+    [SerializeField] Image TutIcon1;
     #endregion
 
     private void Awake()
@@ -40,6 +41,7 @@ public class UIManager : MonoBehaviour
     {
         gameOverText.gameObject.SetActive(false);
        playAgainButton.gameObject.SetActive(false);
+        TutIcon1.gameObject.SetActive(false);
 
     }
 
@@ -96,5 +98,17 @@ public class UIManager : MonoBehaviour
             pausePanel.SetActive(true);
 
         Time.timeScale = (pausePanel.activeSelf) ? 0 : 1;
+    }
+
+    public void ActivateTutIcon(string IconName)
+    {
+        //  TutIcon1 = GameObject.Find(IconName).GetComponent<Image>();
+        TutIcon1.gameObject.SetActive(true);
+    }
+
+    public void DesactivateTutIcon(string IconName)
+    {
+        // TutIcon1 = GameObject.Find(IconName).GetComponent<Image>();
+        TutIcon1.gameObject.SetActive(false);
     }
 }
