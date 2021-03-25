@@ -15,7 +15,7 @@ public class UIManager : MonoBehaviour
     [SerializeField] Image Cora1;
     [SerializeField] Image Cora2;
     [SerializeField] GameObject pausePanel;
-    [SerializeField] Image TutIcon1;
+    [SerializeField] GameObject TutIcon1;
     #endregion
 
     private void Awake()
@@ -34,14 +34,15 @@ public class UIManager : MonoBehaviour
         DontDestroyOnLoad(this);
 
         pausePanel = GameObject.Find("PausePanel"); pausePanel.SetActive(false);
+       // TutIcon1 = GameObject.Find("UiCon"); TutIcon1.gameObject.SetActive(false);
     }
 
     // Start is called before the first frame update
     public void Start()
     {
         gameOverText.gameObject.SetActive(false);
-       playAgainButton.gameObject.SetActive(false);
-        TutIcon1.gameObject.SetActive(false);
+        playAgainButton.gameObject.SetActive(false);
+        
 
     }
 

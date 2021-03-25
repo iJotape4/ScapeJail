@@ -1,28 +1,44 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+
+
+[RequireComponent(typeof(SpriteRenderer))]
+[RequireComponent(typeof(BoxCollider2D))]
 
 public class PortaWarp : MonoBehaviour
 {
+    #region Inspector properties
+    public Object _escenaDestino;
+    public GameObject UiCon;
+    public bool triggered;
+    #endregion
     // Start is called before the first frame update
     void Start()
     {
-       
-        
+        UiCon = GameObject.Find("UiCon"); 
+        UiCon.gameObject.SetActive(false);
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+     if (Input.GetButtonDown("Submit"))
+        {
+            SceneManager.LoadScene(_escenaDestino.name);
+            
+        }   
     }
 
     private void OnTriggerStay2D(Collider2D collision)
     {
         if (collision.gameObject.tag == "Player")
         {
-            UIManager.Instance.ActivateTutIcon("Uicon");
-          
+           
+            UiCon.SetActive(true);
+            triggered = true;
 
         }
     }
@@ -31,8 +47,9 @@ public class PortaWarp : MonoBehaviour
     {
         if (collision.gameObject.tag == "Player")
         {
-            UIManager.Instance.DesactivateTutIcon("UiCon");
-
+            UiCon.SetActive(false);
+         
+            triggered = false;
         }
     }
 }
