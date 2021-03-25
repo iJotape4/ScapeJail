@@ -32,7 +32,7 @@ public class PlayerPowerUpHelper : MonoBehaviour
     {
        if( !_isActive)     
            return;
-        if (Input.GetButtonDown("Shoot")){
+        if (Input.GetButtonDown("Fire2")){
             Function();
         }
         

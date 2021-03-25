@@ -45,7 +45,7 @@ public class GameManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        UIManager.Instance.UpdateLives(livesCount);
+    
         EnergyCount = 2;
         livesCount = 2;
     }

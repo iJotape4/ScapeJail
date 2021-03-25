@@ -59,5 +59,11 @@ public class PatrolEnemyController2D : GameActorController
     {
         if (collision.gameObject.tag == "Player")
             _vx = -_vx;
+        if (collision.gameObject.layer == LayerMask.NameToLayer("PlayerBullets"))
+        {
+            Destroy(this);
+        } 
     }
+
+
 }

@@ -25,18 +25,19 @@ public class PortaWarp : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-     if (Input.GetButtonDown("Submit"))
-        {
-            SceneManager.LoadScene(_escenaDestino.name);
-            
-        }   
+    
     }
 
     private void OnTriggerStay2D(Collider2D collision)
     {
         if (collision.gameObject.tag == "Player")
         {
-           
+            if (Input.GetButtonDown("Submit"))
+            {
+                SceneManager.LoadScene(_escenaDestino.name);
+
+            }
+
             UiCon.SetActive(true);
             triggered = true;
 
