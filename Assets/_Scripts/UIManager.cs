@@ -34,7 +34,7 @@ public class UIManager : MonoBehaviour
         DontDestroyOnLoad(this);
 
         pausePanel = GameObject.Find("PausePanel"); pausePanel.SetActive(false);
-       // TutIcon1 = GameObject.Find("UiCon"); TutIcon1.gameObject.SetActive(false);
+       
     }
 
     // Start is called before the first frame update
@@ -103,13 +103,13 @@ public class UIManager : MonoBehaviour
 
     public void ActivateTutIcon(string IconName)
     {
-        //  TutIcon1 = GameObject.Find(IconName).GetComponent<Image>();
+        
         TutIcon1.gameObject.SetActive(true);
     }
 
     public void DesactivateTutIcon(string IconName)
     {
-        // TutIcon1 = GameObject.Find(IconName).GetComponent<Image>();
+        
         TutIcon1.gameObject.SetActive(false);
     }
 }

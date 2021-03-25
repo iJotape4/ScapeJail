@@ -10,6 +10,7 @@ using UnityEngine;
 
 public class PlayerController2D : GameActorController
 {
+    [SerializeField] public palancaController Palanca;
     // Store the movement or the current timestep
     #region Private  Properties
     [SerializeField] PlayerPowerUpHelper PowerUpHelper;
@@ -57,6 +58,15 @@ public class PlayerController2D : GameActorController
                 gameObject.SetActive(false);
                 
             }
+        }
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "Lost" && Palanca.activation )
+        {
+              UIManager.Instance.ShowGameOver();
+            Time.timeScale = 0;
         }
     }
 

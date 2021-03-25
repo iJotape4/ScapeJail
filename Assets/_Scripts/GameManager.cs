@@ -89,6 +89,8 @@ public class GameManager : MonoBehaviour
     {
         Start();
         _isGameOver = false;
+        EnergyCount = 2;
+        livesCount = 2;
         Time.timeScale = 1;
         UIManager.Instance.Start();
         SceneManager.LoadScene(0);
